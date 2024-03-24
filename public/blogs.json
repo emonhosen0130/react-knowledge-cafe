@@ -1,0 +1,58 @@
+ [
+ {
+    "id": 1,
+    "cover": "https://i.ibb.co/zP9KRv0/pexels-aphiwat-chuangchoem-358904.jpg",
+    "title": "Exploring the Wilderness",
+    "author": "John Doe",
+    "author_img": "https://img.freepik.com/free-psd/elegant-man-with-crossed-arms_1154-563.jpg?size=626&ext=jpg&uid=R142730697&ga=GA1.1.592230061.1704201703&semt=ais",
+    "posted_date": "2023-12-30",
+    "reading_time": 45,
+    "hashtags": ["adventure", "nature", "exploration"]
+  },
+  
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/VtvwKG0/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+    "title": "Cooking Masterclass: Italian Cuisine",
+    "author": "Jane Smith",
+    "author_img": "https://img.freepik.com/premium-photo/portrait-happy-businessman-black-formal-suit_34048-1053.jpg?size=626&ext=jpg&uid=R142730697&ga=GA1.1.592230061.1704201703&semt=ais",
+    "posted_date": "2023-12-28",
+    "reading_time": 30,
+    "hashtags": ["cooking", "Italian", "food"]
+  },
+
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/yV1st0P/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+    "title": "The Art of Photography",
+    "author": "Michael Johnson",
+    "author_img": "https://i.ibb.co/W60Ld2t/close-up-photo-young-successful-business-man-black-suit-171337-9509.jpg",
+    "posted_date": "2023-12-25",
+    "reading_time": 60,
+    "hashtags": ["photography", "art", "creativity"]
+  },
+
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/qJ83RTd/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Fitness Tips for Busy Professionals",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co/tDLQLS8/img.jpg",
+    "posted_date": "2023-12-20",
+    "reading_time": 20,
+    "hashtags": ["fitness", "health", "exercise"]
+  },
+  
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/TK0q7Sb/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+    "title": "Financial Planning 101",
+    "author": "David Lee",
+    "author_img": "https://i.ibb.co/qkzDdz5/businessman-posing-chair-144627-34853.jpg",
+    "posted_date": "2023-12-15",
+    "reading_time": 35,
+    "hashtags": ["finance", "money", "investing"]
+  }
+  
+  
+]
